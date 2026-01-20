@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44183797214",
+    "project_id": "burhan-rent",
+    "storage_bucket": "burhan-rent.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44183797214:android:a43d7d3c371a9fc862b14f",
+        "android_client_info": {
+          "package_name": "com.example.burhan_rent_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAajp_cIgOt1pYiLXqh4wt4n3kQWLpAgD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
